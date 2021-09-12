@@ -64,6 +64,11 @@ header div.header-right ul li{
   font-weight: 500;
 }
 
+
+header div.header-right ul a{
+ color:var(--purpleDark);
+}
+
 header div.header-right ul li:first-child{
   border-bottom: 4px solid var(--purpleLighter);
 }
