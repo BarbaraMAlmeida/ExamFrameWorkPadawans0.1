@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+#Processo Seletivo Framework Padawans
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Desenvolvedora: Bárbara Almeida
 
-## Available Scripts
+#Idade: 16 anos
 
-In the project directory, you can run:
+#Formação: Cursando o 2° ano do ensino médio técnico
 
-### `yarn start`
+#Instituição de ensino: Colégio Cotemig Técnico em Informática
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#Objetivo do Projeto:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Desenvolvido com o objetivo de inserir à empresa Framework System por meio do processo seletivo Padawans, desenvolvi o projeto utilizando ReactJS aprimorando minhas técnicas e conhecimentos.
 
-### `yarn test`
+#Linguagens utilizadas:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ReactJS
 
-### `yarn build`
+#Páginas criadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+As páginas podem ser acessadas pelos botões da Navbar,Footer ou Acessar(Posts), com exceção da Página Error que aparece caso tentem acessar uma página que não existe.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Home: /
+Posts: /Posts
+Albuns: /Albuns
+ToDos: /ToDos
+Responses: /Response
+Error: /Error
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#API's Utilizadas
 
-### `yarn eject`
+Nesse projeto foram usadas duas API's, uma do JSONPlaceholder como solicitadas e Cat API, usada para as responses da página dos Posts. Ao clicar no botão "Acessar" ele te levará a uma nova página com a imagem do Post.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#Links Apis Utilizadas
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://thecatapi.com/
+https://api.thecatapi.com/v1/images/search
+https://jsonplaceholder.typicode.com/posts
+https://jsonplaceholder.typicode.com/albums
+https://jsonplaceholder.typicode.com/todos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#Mockup
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Além do site, também foi desenvolvido o seu Mockup pelo Figma. 
+https://www.figma.com/file/i6EZxgFs1JhRwtwJmtl4BE/Framework-Padawans?node-id=0%3A1
 
-## Learn More
+#Deploy do Projeto
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+O projeto também pode ser acessado pelo link abaixo
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://babipadawan.surge.sh/
